@@ -8,4 +8,8 @@ describe("cerberus", () => {
   test("`multiply` is exported", () => {
     expect(typeof cerberus.multiply).toBe("function");
   });
+
+  test("`divide` is exported", () => {
+    expect(typeof cerberus.divide).toBe("function");
+  });
 });
