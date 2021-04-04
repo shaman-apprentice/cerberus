@@ -1,0 +1,29 @@
+{
+  "name": "cerberus",
+  "version": "1.0.0",
+  "description": "Simple example for my CI QA reasoning",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaman-apprentice/cerberus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaman-apprentice/cerberus/issues"
+  },
+  "homepage": "https://github.com/shaman-apprentice/cerberus#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "@types/node": "^14.14.37",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-jest": "^24.3.3",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
